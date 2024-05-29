@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.starasgames.tmpro-dynamic-data-cleaner": {
+      "version": "https://github.com/STARasGAMES/tmpro-dynamic-data-cleaner.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3a3607621431b0173bea325a53fb34e8d574f995"
+    },
     "com.unity.collab-proxy": {
       "version": "2.3.1",
       "depth": 0,
@@ -96,7 +103,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.6",
+      "version": "3.0.9",
       "depth": 0,
       "source": "registry",
       "dependencies": {
