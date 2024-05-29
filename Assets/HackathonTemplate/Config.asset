@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Config
   m_EditorClassIdentifier: 
   _menuSceneSwitcherConfigData:
-    ScenesFolderPath: Assets/HackathonTemplate/Scenes/
+    ScenesFolderPath: Assets/_Project/Scenes/
     InGameSceneName: InGame
     TitleSceneName: Title
     ResultSceneName: Result
